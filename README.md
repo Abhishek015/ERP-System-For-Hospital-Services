@@ -19,3 +19,18 @@ GITHUB LINK FOR OUR TEAM MEMBERS :
 1) ABHISHEK RAJ KESHRI : https://github.com/Abhishek015/ERP-System-For-Hospital-Services.git
 2) ADHAR SHARMA : https://github.com/adsharma95/EFFICIENT-SEARCHING-IN-ERP-SYSTEM-FOR-HOSPITAL-SERVICES.git
 3) AKASH KUMAR : https://github.com/AkashKumar6095/DoctorAppointment.git
+
+SOFTWARE USED :
+
+1. NOTEPAD++ for coding purpose
+2. XAMPP for creating localhost server
+3. Phpmyadmin for creating nad maintaining database
+
+LANGUAGE USED :
+
+1. html
+2. css
+3. php
+4. mysql(database)
+5. javascript , jquery , ajax
+6. BOOTSTRAP for making website responsive
